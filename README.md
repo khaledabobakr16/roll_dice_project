@@ -10,6 +10,8 @@ A new Flutter project.
 <img src="https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/61c1da51-59cf-4991-9a40-ba7eec7e6cc0" width="100" height="200"/>
 <img src="https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/a3ea60d2-ff4a-4f4a-a059-b6a2a3f7e884" width="100" height="200"/>
 </p>
+
+
 # note
 - In the application press the dice button to generate a random number.
 
