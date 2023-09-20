@@ -2,15 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
+## Pictures of this project
+  
+![3](https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/e7f430bb-752a-4271-80c9-4bdc601b7ec1)
+![2](https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/63896dd4-a417-4cca-be32-9cfa4c53483d)
+![1](https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/31caedeb-595f-4b28-af4e-da211db316b1)
+![6](https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/b990e21b-8ea0-4d8b-ad83-28f55a9bef9c)
+![5](https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/61c1da51-59cf-4991-9a40-ba7eec7e6cc0)
+![4](https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/a3ea60d2-ff4a-4f4a-a059-b6a2a3f7e884)
+- Press the dice button to generate a random number.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Video of this project
+- 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/5a11f3a3-7678-4c9e-97d1-a722f8ff94ad
+
