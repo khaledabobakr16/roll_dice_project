@@ -15,5 +15,6 @@ A new Flutter project.
 
 
 ## Video of this project
-https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/5a11f3a3-7678-4c9e-97d1-a722f8ff94ad
+https://github.com/khaledabobakr16/roll_dice_project/assets/133836975/1edf927a-4e12-48a9-b102-e890fc433793
+
 
